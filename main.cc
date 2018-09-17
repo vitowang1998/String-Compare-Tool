@@ -8,10 +8,10 @@ int main() {
     string str2;
 
     cout << "Please input the first string: " << endl;
-    cin >> str1;
+    getline(cin, str1);
 
     cout << "Please input the second string: " << endl;
-    cin >> str2;
+    getline(cin, str2);
 
     if (str1 == str2) {
         cout << "The two strings are equal." << endl;
