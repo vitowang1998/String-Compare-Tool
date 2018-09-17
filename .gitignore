@@ -1,0 +1,5 @@
+
+*.plist
+program.dSYM/Contents/Resources/DWARF/program
+program
+*.d
