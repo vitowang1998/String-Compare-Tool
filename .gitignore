@@ -3,3 +3,4 @@
 program.dSYM/Contents/Resources/DWARF/program
 program
 *.d
+.vscode/settings.json
